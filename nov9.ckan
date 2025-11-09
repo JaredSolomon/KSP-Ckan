@@ -1,0 +1,455 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed-Kerbal-Space-Program",
+    "name": "installed-Kerbal Space Program",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": "jared",
+    "version": "2025.11.09.04.30.03",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureProps",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Planet-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-props",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics-NTRsUseLF",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HUDReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RemoteTech",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ScrapYard",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "xScienceContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AmpYearPowerManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9AerospaceHX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9AerospaceLegacy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterBurnTime",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CapCom",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Chatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ConformalDecals",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-UnmannedContracts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractsWindowPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CrewQueueTwo",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines-NFAero",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DeepFreeze",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DMagicOrbitalScience",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockingPortAlignmentIndicator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FuelWings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAlarmClock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics-NFECompatibility",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KAS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalChangelog",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalConstructionTime",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KIS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalNRAP",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SpaceXLegs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KRASH",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KWRocketryRebalanced",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk2Expansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureConstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RoverPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OhScrap",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProbesBeforeCrew",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Complete",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChute",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ResearchBodies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RestockRigidLegs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Resurfaced",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShuttleLiftingBodyCormorantAeronology",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StageRecovery",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-FissionReactors",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-Converters",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-Harvesters",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TACLS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TarsierSpaceTechnologyWithGalaxies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "JanitorsCloset",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Toolbar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Trajectories",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TriggerAu-Flags",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleCompanion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "UniversalStorage2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-Munk",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-11-09T04:30:03.923452Z",
+    "kind": "metapackage"
+}
